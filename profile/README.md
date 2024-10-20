@@ -2,7 +2,7 @@
 
 <img src="https://ailluminator.com/_next/image?url=%2Fimages%2Fbot.png&w=640&q=75" align="right" width="300" style="padding-left: 20px; padding-bottom: 10px;">
 
-Welcome to the AI/luminator GitHub Organization! The [AI/luminator](https://ailluminator.com/home) is an AI-powered tool designed to help researchers and enthusiasts stay updated on the latest scientific literature in their field.
+Welcome to the AI/lluminator GitHub Organization! The [AI/lluminator](https://ailluminator.com/home) is an AI-powered tool designed to help researchers and enthusiasts stay updated on the latest scientific literature in their field.
 
 ### Key Features
 - **AI-Powered Literature Tracking**: Automatically track scientific publications using natural language prompts instead of keyword searches.
